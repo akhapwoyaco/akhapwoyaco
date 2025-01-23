@@ -19,4 +19,4 @@ List of Shiny Apps:
 7. [Web Scrapping and Shiny App of health centers in Kenya](https://akhapwoyachris.shinyapps.io/afya_kenya/)
 8. [Australian Weather](https://01940e82-7881-ac23-953c-68da09cea0f0.share.connect.posit.cloud/)
 9. [health metrics](https://0193e420-2ae7-8d0c-7fff-e0b3d211b026.share.connect.posit.cloud/)
-10. [Coutnry Capital City Quizes: Python](https://connect.posit.cloud/akhapwoyaco/content/01944d5f-63a3-a2b6-62de-3f15c88ab38d)
+10. [Country Capital City Quizes: Python](https://connect.posit.cloud/akhapwoyaco/content/01944d5f-63a3-a2b6-62de-3f15c88ab38d)
