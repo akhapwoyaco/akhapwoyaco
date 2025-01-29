@@ -9,7 +9,8 @@
 - 😄 Pronouns: .he
 - ⚡ Fun fact: We make our own luck
 
-List of Shiny Apps:
+## List of Shiny Apps:
+
 0. [Global Biodiversity R Shiny App](https://christopherakhapwoya.shinyapps.io/biodiversity_shiny_app/): Uses data from [Global Biodiversity Information Facility](https://www.gbif.org/search)
 1. [2022 General Election, mapping of tally, election winners within counties using kenyaelection](https://akhapwoyachris.shinyapps.io/presidentialelectionkenya2022/)
 2. [Kenya Election Winners](https://christopherakhapwoya.shinyapps.io/electionkenya/)
