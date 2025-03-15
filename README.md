@@ -26,3 +26,6 @@
 Fortran Projects:
 
 1. Compound Interest and Cummulative Savings Calculator
+
+
+![Central Bank of Kenya Key Statistics Shiny App Data Viz](https://github.com/user-attachments/assets/d16252bc-1a15-40e9-b9fd-e053b3b88b80)
