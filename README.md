@@ -10,6 +10,7 @@
 - ⚡ Fun fact: We make our own luck
 
 ## List of Shiny Apps:
+0. [Appsilon Hackathon Shiny App](https://akhapwoyachris.shinyapps.io/appsilon_shiny_tiny_hackathon/)
 0. [Central Bank of Kenya Key Statistics](https://christopherakhapwoya.shinyapps.io/centralbankkenyastatistics/)
 1. [Global Biodiversity R Shiny App](https://christopherakhapwoya.shinyapps.io/biodiversity_shiny_app/): Uses data from [Global Biodiversity Information Facility](https://www.gbif.org/search)
 2. [2022 General Election, mapping of tally, election winners within counties using kenyaelection](https://akhapwoyachris.shinyapps.io/presidentialelectionkenya2022/)
